@@ -1,1 +1,12 @@
 apache/activemq-artemis
+mysql
+mysql:5.7
+tomcat
+nginx
+redis
+redis:5.0
+cassandra
+rabbitmq
+zookeeper
+wurstmeister/kafka
+rabbitmq
