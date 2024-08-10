@@ -10,3 +10,4 @@ rabbitmq
 zookeeper
 wurstmeister/kafka
 rabbitmq
+rabbitmq:3-management
