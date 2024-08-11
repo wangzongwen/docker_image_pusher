@@ -1,13 +1,4 @@
-apache/activemq-artemis
-mysql
-mysql:5.7
-tomcat
-nginx
-redis
-redis:5.0
-cassandra
-rabbitmq
-zookeeper
-wurstmeister/kafka
-rabbitmq
-rabbitmq:3-management
+knowstreaming/knowstreaming-manager
+knowstreaming/knowstreaming-ui
+docker.io/library/elasticsearch
+knowstreaming/knowstreaming-mysql
