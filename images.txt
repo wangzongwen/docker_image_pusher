@@ -1,4 +1,1 @@
-knowstreaming/knowstreaming-manager
-knowstreaming/knowstreaming-ui
-elasticsearch:7.6.2
-knowstreaming/knowstreaming-mysql
+mongo
