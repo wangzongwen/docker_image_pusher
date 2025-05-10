@@ -1,1 +1,2 @@
-mysql:8.4.3
+sonarqube:9.9-community
+postgres:15
