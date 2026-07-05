@@ -1,2 +1,7 @@
-sonarqube:9.9-community
-postgres:15
+mysql:8.0.35
+redis:7.2.5
+elasticsearch:9.1.2
+kibana:9.1.2
+nacos/nacos-server:latest
+rocketmq:5.3.2
+sls-opensource-registry.cn-shanghai.cr.aliyuncs.com/loongcollector-community-edition/loongcollector:3.1.4
