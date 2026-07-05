@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:9.1.2
+curlimages/curl:latest
