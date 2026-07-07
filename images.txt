@@ -1,1 +1,1 @@
-testcontainers/ryuk:0.12.0
+postgres:17-alpine
